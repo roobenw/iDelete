@@ -1,3 +1,4 @@
+iDelete
 1.	Google Chrome Extension iDelete v1 
 In this version when you install the extension it's automatically run and delete all images form all the pages that you visit. In order to see the images, you have to disable the extension.
 
